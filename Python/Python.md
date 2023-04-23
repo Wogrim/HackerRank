@@ -43,6 +43,24 @@
 
 ## Basic Data Types
 
+[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
+- [python3](Basic_Data_Types/list-comprehensions.python3.py)
+
+[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
+- [python3](Basic_Data_Types/find-second-maximum-number-in-a-list.python3.py)
+
+[Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)
+- [python3](Basic_Data_Types/nested-list.python3.py)
+
+[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
+- [python3](Basic_Data_Types/finding-the-percentage.python3.py)
+
+[Lists](https://www.hackerrank.com/challenges/python-lists/problem)
+- [python3](Basic_Data_Types/python-lists.python3.py)
+
+[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
+- [pypy](Basic_Data_Types/python-tuples.pypy.py)
+
 ## Strings
 
 ## Sets
