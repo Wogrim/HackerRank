@@ -149,18 +149,25 @@
 ## Math
 
 [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)
+- [python3](Math/polar-coordinates.python3.py)
 
 [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)
+- [python3](Math/find-angle.python3.py)
 
 [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)
+- [python3](Math/triangle-quest-2.python3.py)
 
 [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)
+- [python3](Math/python-mod-divmod.python3.py)
 
 [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)
+- [python3](Math/python-power-mod-power.python3.py)
 
 [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
+- [python3](Math/python-integers-come-in-all-sizes.python3.py)
 
 [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem)
+- [python3](Math/python-quest-1.python3.py)
 
 ## Itertools
 
