@@ -172,18 +172,25 @@
 ## Itertools
 
 [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)
+- [python3](Itertools/itertools-product.python3.py)
 
 [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+- [python3](Itertools/itertools-permutations.python3.py)
 
 [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem)
+- [python3](Itertools/itertools-combinations.python3.py)
 
 [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)
+- [python3](Itertools/itertools-combinations-with-replacement.python3.py)
 
 [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem)
+- [python3](Itertools/compress-the-string.python3.py)
 
 [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
+- [python3](Itertools/iterables-and-iterators.python3.py)
 
 [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)
+- [python3](Itertools/maximize-it.python3.py)
 
 ## Collections
 
