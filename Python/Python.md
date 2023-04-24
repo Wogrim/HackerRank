@@ -195,20 +195,28 @@
 ## Collections
 
 [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem)
+- [python3](Collections/collections-counter.python3.py)
 
 [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
+- [python3](Collections/defaultdict-tutorial.python3.py)
 
 [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)
+- [python3](Collections/py-collections-namedtuple.python3.py)
 
 [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
+- [python3](Collections/py-collections-ordereddict.python3.py)
 
 [Word Order](https://www.hackerrank.com/challenges/word-order/problem)
+- [python3](Collections/word-order.python3.py)
 
 [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem)
+- [python3](Collections/py-collections-deque.python3.py)
 
 [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem)
+- [python3](Collections/most-commons.python3.py)
 
 [Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem)
+- [python3](Collections/piling-up.python3.py)
 
 ## Date and Time
 
