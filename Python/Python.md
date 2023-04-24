@@ -108,30 +108,43 @@
 ## Sets
 
 [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
+- [python3](Sets/py-introduction-to-sets.python3.py)
 
 [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)
+- [python3](Sets/no-idea.python3.py)
 
 [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)
+- [python3](Sets/symmetric-difference.python3.py)
 
 [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)
+- [python3](Sets/py-set-add.python3.py)
 
 [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
+- [python3](Sets/py-set-discard-remove-pop.python3.py)
 
 [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem)
+- [python3](Sets/py-set-union.python3.py)
 
 [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)
+- [python3](Sets/py-set-intersection-operation.python3.py)
 
 [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)
+- [python3](Sets/py-set-difference-operation.python3.py)
 
 [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)
+- [python3](Sets/py-set-symmetric-difference-operation.python3.py)
 
 [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)
+- [python3](Sets/py-set-mutations.python3.py)
 
 [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)
+- [python3](Sets/py-the-captains-room.python3.py)
 
 [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)
+- [python3](Sets/py-check-subset.python3.py)
 
 [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
+- [python3](Sets/py-check-strict-superset.python3.py)
 
 ## Math
 
