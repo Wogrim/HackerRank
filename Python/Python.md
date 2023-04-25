@@ -229,8 +229,10 @@
 ## Errors and Exceptions
 
 [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem)
+- [python3](Errors_and_Exceptions/exceptions.python3.py)
 
 [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem)
+- [python3](Errors_and_Exceptions/incorrect-regex.python3.py)
 
 ## Classes
 
