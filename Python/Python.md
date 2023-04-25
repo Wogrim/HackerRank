@@ -237,8 +237,10 @@
 ## Classes
 
 [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem)
+- [python3](Classes/class-1-dealing-with-complex-numbers.python3.py)
 
 [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)
+- [python3](Classes/class-2-find-the-torsional-angle.python3.py)
 
 ## Built-Ins
 
