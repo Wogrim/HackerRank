@@ -221,8 +221,10 @@
 ## Date and Time
 
 [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)
+- [python3](Date_and_Time/calendar-module.python3.py)
 
 [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)
+- [python3](Date_and_Time/python-time-delta.python3.py)
 
 ## Errors and Exceptions
 
