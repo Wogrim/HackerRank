@@ -245,16 +245,22 @@
 ## Built-Ins
 
 [Zipped!](https://www.hackerrank.com/challenges/zipped/problem)
+- [python3](Built-Ins/zipped.python3.py)
 
 [Input()](https://www.hackerrank.com/challenges/input/problem)
+- [python3](Built-Ins/input.python3.py)
 
 [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem)
+- [python3](Built-Ins/python-eval.python3.py)
 
 [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)
+- [python3](Built-Ins/python-sort-sort.python3.py)
 
 [Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)
+- [python3](Built-Ins/any-or-all.python3.py)
 
 [ginortS](https://www.hackerrank.com/challenges/ginorts/problem)
+- [python3](Built-Ins/ginorts.python3.py)
 
 ## Python Functionals
 
