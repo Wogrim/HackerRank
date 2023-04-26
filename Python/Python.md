@@ -329,8 +329,10 @@
 ## XML
 
 [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem)
+- [python3](XML/xml-1-find-the-score.python3.py)
 
 [XML2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem)
+- [python3](XML/xml2-find-the-maximum-depth.python3.py)
 
 ## Closures and Decorators
 
