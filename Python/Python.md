@@ -345,34 +345,49 @@
 ## Numpy
 
 [Arrays](https://www.hackerrank.com/challenges/np-arrays/problem)
+- [python3](Numpy/np-arrays.python3.py)
 
 [Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
+- [python3](Numpy/np-shape-reshape.python3.py)
 
 [Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)
+- [python3](Numpy/np-transpose-and-flatten.python3.py)
 
 [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem)
+- [python3](Numpy/np-concatenate.python3.py)
 
 [Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
+- [python3](Numpy/np-zeroes-and-ones.python3.py)
 
 [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)
+-[python3](Numpy/np-eye-and-identity.py)
 
 [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
+- [python3](Numpy/np-array-mathematics.python3.py)
 
 [Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)
+- [python3](Numpy/floor-ceil-and-rint.python3.py)
 
 [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)
+- [python3](Numpy/np-sum-and-prod.python3.py)
 
 [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)
+- [python3](Numpy/np-min-and-max.python3.py)
 
 [Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)
+- [python3](Numpy/np-mean-var-and-std.python3.py)
 
 [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)
+- [python3](Numpy/np-dot-and-cross.python3.py)
 
 [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)
+- [python3](Numpy/np-inner-and-outer.python3.py)
 
 [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)
+- [python3](Numpy/np-polynomials.python3.py)
 
 [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)
+- [python3](Numpy/np-linear-algebra.python3.py)
 
 ## Debugging
 
