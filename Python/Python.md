@@ -392,7 +392,9 @@
 ## Debugging
 
 [Words Score](https://www.hackerrank.com/challenges/words-score/problem)
+- [python3](Debugging/words-score.python3.py)
 
 [Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)
+- [python3](Debugging/default-arguments.python3.py)
 
 
