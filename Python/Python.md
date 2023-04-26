@@ -265,10 +265,13 @@
 ## Python Functionals
 
 [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)
+- [python3](Python_Functionals/map-and-lambda-expression.python3.py)
 
 [Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)
+- [python3](Python_Functionals/validate-list-of-email-address-with-filter.python3.py)
 
 [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem)
+- [python3](Python_Functionals/reduce-function.python3.py)
 
 ## Regex and Parsing
 
