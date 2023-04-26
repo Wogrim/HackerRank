@@ -337,8 +337,10 @@
 ## Closures and Decorators
 
 [Standardize Mobile Number Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem)
+- [python3](Closures_and_Decorators/standardize-mobile-number-using-decorators.python3.py)
 
 [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem)
+- [python3](Closures_and_Decorators/decorators-2-name-directory.python3.py)
 
 ## Numpy
 
