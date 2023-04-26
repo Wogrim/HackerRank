@@ -276,38 +276,55 @@
 ## Regex and Parsing
 
 [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
+- [python3](Regex_and_Parsing/introduction-to-regex.python3.py)
 
 [Re.split()](https://www.hackerrank.com/challenges/re-split/problem)
+- [python3](Regex_and_Parsing/re-split.python3.py)
 
 [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem)
+- [python3](Regex_and_Parsing/re-group-groups.python3.py)
 
 [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
+- [python3](Regex_and_Parsing/re-findall-re-finditer.python3.py)
 
 [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem)
+- [python3](Regex_and_Parsing/re-start-re-end.python3.py)
 
 [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem)
+- [python3](Regex_and_Parsing/re-sub-regex-substitution.python3.py)
 
 [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem)
+- [python3](Regex_and_Parsing/validate-a-roman-number.python3.py)
 
 [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
+- [python3](Regex_and_Parsing/validating-the-phone-number.python3.py)
 
 [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem)
+- [python3](Regex_and_Parsing/validating-named-email-addresses.python3.py)
 
 [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code/problem)
+- [python3](Regex_and_Parsing/hex-color-code.python3.py)
 
 [HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1/problem)
+- [python3](Regex_and_Parsing/html-parser-part-1.python3.py)
 
 [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem)
+- [python3](Regex_and_Parsing/html-parser-part-2.python3.py)
 
 [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem)
+- [python3](Regex_and_Parsing/detect-html-tags-attributes-and-attribute-values.python3.py)
 
 [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem)
+- [python3](Regex_and_Parsing/validating-uid.python3.py)
 
 [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number/problem)
+- [python3](Regex_and_Parsing/validating-credit-card-number.python3.py)
 
 [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode/problem)
+- [python3](Regex_and_Parsing/validating-postalcode.python3.py)
 
 [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem)
+- [python3](Regex_and_Parsing/matrix-script.python3.py)
 
 ## XML
 
