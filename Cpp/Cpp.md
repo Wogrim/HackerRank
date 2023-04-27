@@ -50,6 +50,30 @@
 
 ## Classes
 
+[Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem)
+- [cpp](Classes/c-tutorial-struct.cpp)
+
+[Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem)
+- [cpp](Classes/c-tutorial-class.cpp)
+
+[Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem)
+- [cpp](Classes/classes-objects.cpp)
+
+[Box It!](https://www.hackerrank.com/challenges/box-it/problem)
+- [cpp](Classes/box-it.cpp)
+
+[Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem)
+- [cpp](Classes/inherited-code.cpp)
+
+[Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem)
+- [cpp](Classes/exceptional-server.cpp)
+
+[Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem)
+- [cpp](Classes/virtual-functions.cpp)
+
+[Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem)
+- [cpp](Classes/abstract-classes-polymorphism.cpp)
+
 ## STL
 
 ## Inheritance
