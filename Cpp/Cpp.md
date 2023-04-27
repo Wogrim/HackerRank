@@ -39,6 +39,15 @@
 
 ## Strings
 
+[Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem)
+- [cpp](Strings/attribute-parser.cpp)
+
+[StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem)
+- [cpp](Strings/c-tutorial-stringstream.cpp)
+
+[Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)
+- [cpp](Strings/c-tutorial-strings.cpp)
+
 ## Classes
 
 ## STL
