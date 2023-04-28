@@ -76,6 +76,27 @@
 
 ## STL
 
+[Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem)
+- [cpp](STL/vector-sort.cpp)
+
+[Vector-Erase](https://www.hackerrank.com/challenges/vector-erase/problem)
+- [cpp](STL/vector-erase.cpp)
+
+[Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem)
+- [cpp](STL/cpp-lower-bound.cpp)
+
+[Sets-STL](https://www.hackerrank.com/challenges/cpp-sets/problem)
+- [cpp](STL/cpp-sets.cpp)
+
+[Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem)
+- [cpp](STL/cpp-maps.cpp)
+
+[Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem)
+- [cpp](STL/prettyprint.cpp)
+
+[Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem)
+- [cpp](STL/deque-stl.cpp)
+
 ## Inheritance
 
 ## Debugging

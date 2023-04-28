@@ -52,6 +52,7 @@
         "xutility": "cpp",
         "map": "cpp",
         "sstream": "cpp",
-        "xtree": "cpp"
+        "xtree": "cpp",
+        "iomanip": "cpp"
     }
 }
