@@ -117,5 +117,17 @@
 
 ## Debugging
 
+[Hotel Prices](https://www.hackerrank.com/challenges/hotel-prices/problem)
+- [cpp](Debugging/hotel-prices.cpp)
+
+[Cpp exception handling](https://www.hackerrank.com/challenges/cpp-exception-handling/problem)
+- [cpp](Debugging/cpp-exception-handling.cpp)
+
+[Overloading Ostream Operator](https://www.hackerrank.com/challenges/overloading-ostream-operator/problem)
+- [cpp](Debugging/overloading-ostream-operator.cpp)
+
+[Messages Order](https://www.hackerrank.com/challenges/messages-order/problem)
+- [cpp](Debugging/messages-order.cpp)
+
 ## Other Concepts
 
