@@ -131,3 +131,27 @@
 
 ## Other Concepts
 
+[C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates/problem)
+- [cpp](Other_Concepts/c-class-templates.cpp)
+
+[Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution/problem)
+- [cpp](Other_Concepts/preprocessor-solution.cpp)
+
+[Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading/problem)
+- [cpp](Other_Concepts/operator-overloading.cpp)
+
+[Overload Operators](https://www.hackerrank.com/challenges/overload-operators/problem)
+- [cpp](Other_Concepts/overload-operators.cpp)
+
+[Attending Workshops](https://www.hackerrank.com/challenges/attending-workshops/problem)
+- [cpp](Other_Concepts/attending-workshops.cpp)
+
+[C++ Class Template Specialization](https://www.hackerrank.com/challenges/cpp-class-template-specialization/problem)
+- [cpp](Other_Concepts/cpp-class-template-specialization.cpp)
+
+[C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics/problem)
+- [cpp](Other_Concepts/cpp-variadics.cpp)
+
+[Bit Array](https://www.hackerrank.com/challenges/bitset-1/problem)
+- [cpp](Other_Concepts/bitset-1.cpp)
+
