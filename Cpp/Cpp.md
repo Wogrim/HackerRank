@@ -99,6 +99,22 @@
 
 ## Inheritance
 
+[Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction/problem)
+- [cpp](Inheritance/inheritance-introduction.cpp)
+
+[Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area/problem)
+- [cpp](Inheritance/rectangle-area.cpp)
+
+[Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem)
+- [cpp](Inheritance/multi-level-inheritance-cpp.cpp)
+
+[Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem)
+- [cpp](Inheritance/accessing-inherited-functions.cpp)
+
+[Magic Spells](https://www.hackerrank.com/challenges/magic-spells/problem)
+- [cpp](Inheritance/magic-spells.cpp)
+- [cpp slow](Inheritance/magic-spells.slow.cpp)
+
 ## Debugging
 
 ## Other Concepts
