@@ -51,6 +51,39 @@
 
 ## Strings
 
+[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)
+- [java](Strings/java-strings-introduction.java)
+
+[Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)
+- [java](Strings/java-substring.java)
+
+[Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem)
+- [java](Strings/java-string-compare.java)
+
+[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)
+- [java](Strings/java-string-reverse.java)
+
+[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)
+- [java](Strings/java-anagrams.java)
+
+[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)
+- [java](Strings/java-string-tokens.java)
+
+[Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)
+- [java](Strings/pattern-syntax-checker.java)
+
+[Java Regex](https://www.hackerrank.com/challenges/java-regex/problem)
+- [java](Strings/java-regex.java)
+
+[Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem)
+- [java](Strings/duplicate-word.java)
+
+[Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)
+- [java](Strings/valid-username-checker.java)
+
+[Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)
+- [java](Strings/tag-content-extractor.java)
+
 ## BigNumber
 
 ## Data Structures
