@@ -86,6 +86,15 @@
 
 ## BigNumber
 
+[Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)
+- [java8](BigNumber/java-bigdecimal.java8.java)
+
+[Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)
+- [java](BigNumber/java-primality-test.java)
+
+[Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem)
+- [java](BigNumber/java-biginteger.java)
+
 ## Data Structures
 
 ## Object Oriented Programming
