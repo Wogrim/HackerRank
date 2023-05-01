@@ -144,6 +144,30 @@
 
 ## Object Oriented Programming
 
+[Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem)
+- [java](Object_Oriented_Programming/java-interitance-1.java)
+
+[Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem)
+- [java](Object_Oriented_Programming/java-interitance-2.java)
+
+[Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem)
+- [java](Object_Oriented_Programming/java-abstract-class.java)
+
+[Java Interface](https://www.hackerrank.com/challenges/java-interface/problem)
+- [java](Object_Oriented_Programming/java-interface.java)
+
+[Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem)
+- [java](Object_Oriented_Programming/java-method-overriding.java)
+
+[Java Method Over riding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem)
+- [java](Object_Oriented_Programming/java-method-overriding-2-super-keyword.java)
+
+[Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem)
+- [java](Object_Oriented_Programming/java-instanceof-keyword.java)
+
+[Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem)
+- [java](Object_Oriented_Programming/java-iterator.java)
+
 ## Exception Handling
 
 ## Advanced
