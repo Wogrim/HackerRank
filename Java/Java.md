@@ -170,5 +170,11 @@
 
 ## Exception Handling
 
+[Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)
+- [java](Exception_Handling/java-exception-handling-try-catch.java)
+
+[Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)
+- [java](Exception_Handling/java-exception-handling.java)
+
 ## Advanced
 
