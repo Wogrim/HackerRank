@@ -97,6 +97,51 @@
 
 ## Data Structures
 
+[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)
+- [java](Data_Structures/java-1d-array-introduction.java)
+
+[Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)
+- [java](Data_Structures/java-2d-array.java)
+
+[Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)
+- [java](Data_Structures/java-negative-subarray.java)
+
+[Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem)
+- [java](Data_Structures/java-arraylist.java)
+
+[Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem)
+- [java](Data_Structures/java-1d-array.java)
+
+[Java List](https://www.hackerrank.com/challenges/java-list/problem)
+- [java](Data_Structures/java-list.java)
+
+[Java Map](https://www.hackerrank.com/challenges/phone-book/problem)
+- [java](Data_Structures/phone-book.java)
+
+[Java Stack](https://www.hackerrank.com/challenges/java-stack/problem)
+- [java](Data_Structures/java-stack.java)
+
+[Java Hashset](https://www.hackerrank.com/challenges/java-hashset/problem)
+- [java](Data_Structures/java-hashset.java)
+
+[Java Generics](https://www.hackerrank.com/challenges/java-generics/problem)
+- [java](Data_Structures/java-generics.java)
+
+[Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem)
+- [java](Data_Structures/java-comparator.java)
+
+[Java Sort](https://www.hackerrank.com/challenges/java-sort/problem)
+- [java](Data_Structures/java-sort.java8.java)
+
+[Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)
+- [java](Data_Structures/java-dequeue.java)
+
+[Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem)
+- [java](Data_Structures/java-bitset.java)
+
+[Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem)
+- [java](Data_Structures/java-priority-queue.java)
+
 ## Object Oriented Programming
 
 ## Exception Handling
