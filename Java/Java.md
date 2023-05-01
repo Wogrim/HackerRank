@@ -178,3 +178,38 @@
 
 ## Advanced
 
+[Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)
+- [java](Advanced/simple-addition-varargs.java)
+
+[Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem)
+- [java](Advanced/java-reflection-attributes.java)
+
+[Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem)
+- [java](Advanced/can-you-access.java)
+
+[Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)
+- [java](Advanced/prime-checker.java)
+
+[Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem)
+- [java](Advanced/java-factory.java)
+
+[Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem)
+- [java](Advanced/java-singleton.java)
+
+[Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)
+- [java](Advanced/java-visitor-pattern.java)
+
+[Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem)
+- [java](Advanced/java-annotations.java)
+
+[Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem)
+- [java](Advanced/java-covariance.java)
+
+[Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)
+- [java8](Advanced/java-lambda-expressions.java8.java)
+
+[Java MD5](https://www.hackerrank.com/challenges/java-md5/problem)
+- [java](Advanced/java-md5.java)
+
+[Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem)
+- [java](Advanced/sha-256.java)
