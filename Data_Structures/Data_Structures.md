@@ -82,6 +82,39 @@
 
 ## Trees
 
+[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)
+- [cpp](Trees/tree-preorder-traversal.cpp)
+
+[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)
+- [cpp](Trees/tree-postorder-traversal.cpp)
+
+[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)
+- [cpp](Trees/tree-inorder-traversal.cpp)
+
+[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)
+- [cpp](Trees/tree-height-of-a-binary-tree.cpp)
+
+[Tree: Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)
+- [cpp](Trees/tree-top-view.cpp)
+
+[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)
+- [cpp](Trees/tree-level-order-traversal.cpp)
+
+[Binary Search Tree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)
+- [cpp](Trees/binary-search-tree-insertion.cpp)
+
+[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)
+- [cpp](Trees/tree-huffman-decoding.cpp)
+
+[Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)
+- [cpp](Trees/binary-search-tree-lowest-common-ancestor.cpp)
+
+[Swap Nodes[Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)
+- [cpp](Trees/swap-nodes-algo.cpp)
+
+[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)
+- [cpp](Trees/is-binary-search-tree.cpp)
+
 ## Balanced Trees
 
 ## Stacks
