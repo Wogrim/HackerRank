@@ -50,6 +50,148 @@
 
 ## Implementation
 
+[Grading Students](https://www.hackerrank.com/challenges/grading/problem)
+- [cpp](Implementation/grading.cpp)
+
+[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+- [cpp](Implementation/apple-and-orange.cpp)
+
+[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)
+- [cpp](Implementation/kangaroo.cpp)
+
+[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)
+- [cpp](Implementation/between-two-sets.cpp)
+
+[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
+- [cpp](Implementation/breaking-best-and-worst-records.cpp)
+
+[Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+- [cpp](Implementation/the-birthday-bar.cpp)
+
+[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+- [cpp](Implementation/divisible-sum-pairs.cpp)
+
+[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
+- [cpp](Implementation/migratory-birds.cpp)
+
+[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)
+- [js](Implementation/day-of-the-programmer.js)
+
+[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)
+- [cpp](Implementation/bon-appetit.cpp)
+
+[Sales by Match]()
+
+[Drawing Book]()
+
+[Counting Valleys]()
+
+[Electronics Shop]()
+
+[Cats and a Mouse]()
+
+[Forming a Magic Square]()
+
+[Picking Numbers]()
+
+[Climbing the Leaderboard]()
+
+[The Hurdle Race]()
+
+[Designer PDF Viewer]()
+
+[Utopian Tree]()
+
+[Angry Professor]()
+
+[Beautiful Days at the Movies]()
+
+[Viral Advertising]()
+
+[Save the Prisoner!]()
+
+[Circular Array Rotation]()
+
+[Sequence Equation]()
+
+[Jumping on the Clouds: Revisited]()
+
+[Find Digits]()
+
+[Extra Long Factorials]()
+
+[Append and Delete]()
+
+[Sherlock and Squares]()
+
+[Library Fine]()
+
+[Cut the sticks]()
+
+[Non-Divisible Subset]()
+
+[Repeated String]()
+
+[Jumping on the Clouds]()
+
+[Equalize the Array]()
+
+[Queen's Attack II]()
+
+[ACM ICPC Team]()
+
+[Taum and B'day]()
+
+[Organizing Containers of Balls]()
+
+[Encryption]()
+
+[Bigger is Greater]()
+
+[Modified Kaprekar Numbers]()
+
+[Beautiful Triplets]()
+
+[Minimum Distances]()
+
+[Halloween Sale]()
+
+[The Time in Words]()
+
+[Chocolate Feast]()
+
+[Service Lane]()
+
+[Lisa's Workbook]()
+
+[Flatland Space Stations]()
+
+[Fair Rations]()
+
+[Cavity Map]()
+
+[Manasa and Stones]()
+
+[The Grid Search]()
+
+[Happy Ladybugs]()
+
+[Strange Counter]()
+
+[3D Surface Area]()
+
+[Absolute Permutation]()
+
+[The Bomberman Game]()
+
+[Ema's Supercomputer]()
+
+[Larry's Array]()
+
+[Almost Sorted]()
+
+[Matrix Layer Rotation]()
+
 ## Strings
 
 ## Sorting
