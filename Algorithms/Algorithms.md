@@ -110,25 +110,35 @@
 [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
 - [cpp](Implementation/designer-pdf-viewer.cpp)
 
-[Utopian Tree]()
+[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)
+- [cpp](Implementation/utopian-tree.cpp)
 
-[Angry Professor]()
+[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)
+- [cpp](Implementation/angry-professor.cpp)
 
-[Beautiful Days at the Movies]()
+[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
+- [cpp](Implementation/beautiful-days-at-the-movies.cpp)
 
-[Viral Advertising]()
+[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)
+- [cpp](Implementation/strange-advertising.cpp)
 
-[Save the Prisoner!]()
+[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
+- [cpp](Implementation/save-the-prisoner.cpp)
 
-[Circular Array Rotation]()
+[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
+- [cpp](Implementation/circular-array-rotation.cpp)
 
-[Sequence Equation]()
+[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)
+- [cpp](Implementation/permutation-equation.cpp)
 
-[Jumping on the Clouds: Revisited]()
+[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
+- [cpp](Implementation/jumping-on-the-clouds-revisited.cpp)
 
-[Find Digits]()
+[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)
+- [cpp](Implementation/find-digits.cpp)
 
-[Extra Long Factorials]()
+[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
+- [cs](Implementation/extra-long-factorials.cs)
 
 [Append and Delete]()
 
