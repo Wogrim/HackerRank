@@ -140,25 +140,35 @@
 [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 - [cs](Implementation/extra-long-factorials.cs)
 
-[Append and Delete]()
+[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)
+- [cpp](Implementation/append-and-delete.cpp)
 
-[Sherlock and Squares]()
+[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
+- [cpp](Implementation/sherlock-and-squares.cpp)
 
-[Library Fine]()
+[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)
+- [cpp](Implementation/library-fine.cpp)
 
-[Cut the sticks]()
+[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
+- [cpp](Implementation/cut-the-sticks.cpp)
 
-[Non-Divisible Subset]()
+[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)
+- [cpp](Implementation/non-divisible-subset.cpp)
 
-[Repeated String]()
+[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)
+- [cpp](Implementation/repeated-string.cpp)
 
-[Jumping on the Clouds]()
+[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
+- [cpp](Implementation/jumping-on-the-clouds.cpp)
 
-[Equalize the Array]()
+[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
+- [cpp](Implementation/equality-in-a-array.cpp)
 
-[Queen's Attack II]()
+[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)
+- [cpp](Implementation/queens-attack-2.cpp)
 
-[ACM ICPC Team]()
+[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)
+- [cpp](Implementation/acm-icpc-team.cpp)
 
 [Taum and B'day]()
 
