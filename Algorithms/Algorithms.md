@@ -80,25 +80,35 @@
 [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)
 - [cpp](Implementation/bon-appetit.cpp)
 
-[Sales by Match]()
+[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)
+- [cpp](Implementation/sock-merchant.cpp)
 
-[Drawing Book]()
+[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)
+- [cpp](Implementation/drawing-book.cpp)
 
-[Counting Valleys]()
+[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
+- [cpp](Implementation/counting-valleys.cpp)
 
-[Electronics Shop]()
+[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
+- [cpp](Implementation/electronics-shop.cpp)
 
-[Cats and a Mouse]()
+[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
+- [cpp](Implementation/cats-and-a-mouse.cpp)
 
-[Forming a Magic Square]()
+[Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)
+- [cpp](Implementation/magic-square-forming.cpp)
 
-[Picking Numbers]()
+[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)
+- [cpp](Implementation/picking-numbers.cpp)
 
-[Climbing the Leaderboard]()
+[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
+- [cpp](Implementation/climbing-the-leaderboard.cpp)
 
-[The Hurdle Race]()
+[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
+- [cpp](Implementation/the-hurdle-race.cpp)
 
-[Designer PDF Viewer]()
+[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
+- [cpp](Implementation/designer-pdf-viewer.cpp)
 
 [Utopian Tree]()
 
