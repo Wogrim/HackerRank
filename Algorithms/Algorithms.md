@@ -170,37 +170,53 @@
 [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)
 - [cpp](Implementation/acm-icpc-team.cpp)
 
-[Taum and B'day]()
+[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)
+- [cpp](Implementation/taum-and-bday.cpp)
 
-[Organizing Containers of Balls]()
+[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)
+- [cpp](Implementation/organizing-containers-of-balls.cpp)
 
-[Encryption]()
+[Encryption](https://www.hackerrank.com/challenges/encryption/problem)
+- [cpp](Implementation/encryption.cpp)
 
-[Bigger is Greater]()
+[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)
+- [cpp](Implementation/bigger-is-greater.cpp)
 
-[Modified Kaprekar Numbers]()
+[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)
+- [cpp](Implementation/kaprekar-numbers.cpp)
 
-[Beautiful Triplets]()
+[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
+- [cpp](Implementation/beautiful-triplets.cpp)
 
-[Minimum Distances]()
+[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)
+- [cpp](Implementation/minimum-distances.cpp)
 
-[Halloween Sale]()
+[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)
+- [cpp](Implementation/halloween-sale.cpp)
 
-[The Time in Words]()
+[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)
+- [cpp](Implementation/the-time-in-words.cpp)
 
-[Chocolate Feast]()
+[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)
+- [cpp](Implementation/chocolate-feast.cpp)
 
-[Service Lane]()
+[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)
+- [cpp](Implementation/service-lane.cpp)
 
-[Lisa's Workbook]()
+[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)
+- [cpp](Implementation/lisa-workbook.cpp)
 
-[Flatland Space Stations]()
+[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)
+- [cpp](Implementation/flatland-space-stations.cpp)
 
-[Fair Rations]()
+[Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)
+- [cpp](Implementation/fair-rations.cpp)
 
-[Cavity Map]()
+[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)
+- [cpp](Implementation/cavity-map.cpp)
 
-[Manasa and Stones]()
+[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)
+- [cpp](Implementation/manasa-and-stones.cpp)
 
 [The Grid Search]()
 
